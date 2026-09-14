@@ -15,7 +15,7 @@
 - **Ensemble LLM for Electronic Medical Records** — stacking ensembles of biomedical language models (BioBERT, PubMedBERT, GatorTron, BioGPT, Flan-T5); up to 96.5% accuracy
 - **Music Genre Classification (GTZAN)** — CNNs, LSTMs and a conditional GAN in PyTorch
 - **Scene Classification** — SIFT, spatial-pyramid bag-of-visual-words and a linear SVM; 71.7% top-1 accuracy
-- **[Deepfake Image Generation and Detection](https://github.com/VasuBhut/Enhancing-Deep-Fake-Image-Generation-and-Detection-through-Transfer-Learning)** — GAN-generated images classified with DenseNet121
+- **Deepfake Image Generation and Detection** — GAN-generated images classified with DenseNet121
 
 📄 **Publications**
 - *Evaluating the Efficacy of Diverse Classifiers in Fake News Detection: A Comparative Study* — Springer, 2025 (first author)
