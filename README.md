@@ -12,7 +12,7 @@ My MSc dissertation, *Evaluating the Robustness of Cancelable Face Biometrics Ag
 - **Computer vision:** FaceNet, ArcFace (insightface), OpenCV, dense SIFT / bag-of-visual-words, spatial pyramid matching, image embeddings, cosine similarity
 - **Evaluation:** EER, TAR@FAR, ROC/CMC curves, SSIM/PSNR/LPIPS, inference latency, cross-validation, statistical significance testing
 
-###📌 **Projects**
+### 📌 **Projects**
 
 **Code available**
 - [scene-classification-bovw](https://github.com/VasuBhut/scene-classification-bovw) — six-class scene
