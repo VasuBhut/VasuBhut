@@ -10,12 +10,27 @@
 - **Computer vision:** OpenCV, FaceNet, ArcFace
 - **Learning:** SQL, Docker, MLOps
 
-📌 **Projects**
-- **Cancelable Face Biometrics vs Model Inversion** (MSc dissertation) — code private until the dissertation is graded
-- **Ensemble LLM for Electronic Medical Records** — stacking ensembles of biomedical language models (BioBERT, PubMedBERT, GatorTron, BioGPT, Flan-T5); up to 96.5% accuracy
-- **Music Genre Classification (GTZAN)** — CNNs, LSTMs and a conditional GAN in PyTorch
-- **Scene Classification** — SIFT, spatial-pyramid bag-of-visual-words and a linear SVM; 71.7% top-1 accuracy
-- **Deepfake Image Generation and Detection** — GAN-generated images classified with DenseNet121
+### 📌 Projects
+
+**Code available**
+- [scene-classification-bovw](https://github.com/VasuBhut/scene-classification-bovw) — six-class scene
+  classification over 14,034 images; dense SIFT, spatial-pyramid bag-of-visual-words, PCA, linear SVM.
+  71.7% top-1, mAP 0.781
+- [body-shape-biometrics](https://github.com/VasuBhut/body-shape-biometrics) — identifying people by
+  body shape from silhouettes; HSV extraction, width profiles, PCA eigensilhouettes. Rank-1 35.2%
+  against 11.1% chance, 9 subjects
+- [hybrid-images](https://github.com/VasuBhut/hybrid-images) — 2D convolution from first principles in
+  NumPy, then Gaussian low/high-pass hybrid images
+- [music-genre-classification-gtzan](https://github.com/VasuBhut/music-genre-classification-gtzan) —
+  six architectures on MEL spectrograms; conditional GAN for synthetic spectrograms
+- [human-activity-recognition](https://github.com/VasuBhut/human-activity-recognition) — 6M rows of
+  dual-accelerometer data; tuned Random Forest 90.6% across 7 activity classes
+
+**Code not public**
+- Cancelable Face Biometrics vs Model Inversion (MSc dissertation) — private until graded
+- Ensemble LLM for Electronic Medical Records — up to 96.5% accuracy
+- Deepfake Image Generation and Detection — DenseNet121 on GAN-generated images
+
 
 📄 **Publications**
 - *Evaluating the Efficacy of Diverse Classifiers in Fake News Detection: A Comparative Study* — Springer, 2025 (first author)
