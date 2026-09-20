@@ -2,7 +2,8 @@
 
 **MSc Artificial Intelligence** student at the University of Southampton (dissertation submitted September 2026), looking for an entry-level **ML / AI Engineer** role. I work mainly in computer vision and applied machine learning, and I care about designing controlled experiments and measuring results carefully.
 
-### 🔭 **Recently completed:** my MSc dissertation, *Evaluating the Robustness of Cancelable Face Biometrics Against Model Inversion Attacks*. I built a PyTorch pipeline testing whether privacy-protected face templates can be turned back into recognisable faces. With a stolen key, reconstructed faces were accepted as the victim 69–75% of the time at a 1% false-accept rate; with the key kept secret, the attack fell to chance.
+### 🔭 **Recently completed:** 
+My MSc dissertation, *Evaluating the Robustness of Cancelable Face Biometrics Against Model Inversion Attacks*. I built a PyTorch pipeline testing whether privacy-protected face templates can be turned back into recognisable faces. With a stolen key, reconstructed faces were accepted as the victim 69–75% of the time at a 1% false-accept rate; with the key kept secret, the attack fell to chance.
 
 ### 🛠️ **Tech I work with**
 - **Languages & tools:** Python, NumPy, pandas, Git, Jupyter, CUDA, LaTeX; C, C++ (familiar)
