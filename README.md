@@ -11,6 +11,7 @@ My MSc dissertation, *Evaluating the Robustness of Cancelable Face Biometrics Ag
 - **NLP:** text classification, TF-IDF, transformer fine-tuning (BioBERT, BioGPT, PubMedBERT, Flan-T5)
 - **Computer vision:** FaceNet, ArcFace (insightface), OpenCV, dense SIFT / bag-of-visual-words, spatial pyramid matching, image embeddings, cosine similarity
 - **Evaluation:** EER, TAR@FAR, ROC/CMC curves, SSIM/PSNR/LPIPS, inference latency, cross-validation, statistical significance testing
+- **Learning:** SQL
 
 ### 📌 **Projects**
 
