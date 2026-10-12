@@ -6,12 +6,12 @@
 My MSc dissertation, *Evaluating the Robustness of Cancelable Face Biometrics Against Model Inversion Attacks*. I built a PyTorch pipeline testing whether privacy-protected face templates can be turned back into recognisable faces. With a stolen key, reconstructed faces were accepted as the victim 69–75% of the time at a 1% false-accept rate; with the key kept secret, the attack fell to chance.
 
 ### 🛠️ **Tech I work with**
-- **Languages & tools:** Python, NumPy, pandas, Git, Jupyter, CUDA, LaTeX; C, C++ (familiar)
+- - **Languages & tools:** Python, NumPy, pandas, Git, Jupyter, CUDA, LaTeX; C, C++ (familiar); SQL (MySQL, beginner)
 - **ML / DL:** PyTorch, TensorFlow/Keras, scikit-learn, Hugging Face Transformers, XGBoost, CatBoost, Optuna; CNNs, LSTMs, GANs, transfer learning, PCA, K-Means, SVM, random forests, gradient boosting
 - **NLP:** text classification, TF-IDF, transformer fine-tuning (BioBERT, BioGPT, PubMedBERT, Flan-T5)
 - **Computer vision:** FaceNet, ArcFace (insightface), OpenCV, dense SIFT / bag-of-visual-words, spatial pyramid matching, image embeddings, cosine similarity
 - **Evaluation:** EER, TAR@FAR, ROC/CMC curves, SSIM/PSNR/LPIPS, inference latency, cross-validation, statistical significance testing
-- **Learning:** SQL
+- **Learning:** SQL window functions and CTEs; next, LLM/RAG applications with CI/CD (pytest, Docker, AWS)
 
 ### 📌 **Projects**
 
