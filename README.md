@@ -1,6 +1,6 @@
 # Hi, I'm Vasu 👋
 
-**MSc Artificial Intelligence** at the University of Southampton, completed with **Distinction** (dissertation 80%, awaiting Senate approval), looking for an entry-level **ML / AI Engineer**, **Data Scientist** or **Data Analyst** role. I work mainly in computer vision and applied machine learning, and I care about designing controlled experiments and measuring results carefully.
+**MSc Artificial Intelligence** at the University of Southampton, completed with **Distinction** (dissertation 80%), looking for an entry-level **ML / AI Engineer**, **Data Scientist** or **Data Analyst** role. I work mainly in computer vision and applied machine learning, and I care about designing controlled experiments and measuring results carefully.
 
 ### 🔭 **Recently completed:** 
 My MSc dissertation, *Evaluating the Robustness of Cancelable Face Biometrics Against Model Inversion Attacks*. I built a PyTorch pipeline testing whether privacy-protected face templates can be turned back into recognisable faces. With a stolen key, reconstructed faces were accepted as the victim 69–75% of the time at a 1% false-accept rate; with the key kept secret, the attack fell to chance.
